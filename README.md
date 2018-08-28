@@ -13,10 +13,11 @@ Reporting - the test will outpout a xml report.
 
 
 ## Pre-requisites:
+```
    - python 3.6.x
    - pip install requests
    - pip install xmlrunner  
-
+```
 
 
 ## Structure:
