@@ -9,7 +9,9 @@ The tests will exercise DISNEY - API for:
 - duplicate username
 
 Processing will be done by "requests" python library.
+
 Assertion will be done with python core unittest framework.
+
 Reporting - the test will outpout a xml report.
 
 
