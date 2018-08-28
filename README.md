@@ -1,4 +1,4 @@
-Task DISNEY - API testing
+Task DISNEY - API functionality
 ----------
 
 
@@ -57,9 +57,10 @@ Reporting - the test will outpout a html report.
 
 
 ## Pre-requisites:
+```
    - python 3.6.x
    - pip install locustio  (read also: https://docs.locust.io)
-
+```
 
 
 ## Structure:
